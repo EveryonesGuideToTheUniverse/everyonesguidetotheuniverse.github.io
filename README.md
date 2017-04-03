@@ -2,11 +2,12 @@
 <html>
 	<head>
 		<link type="text/css" rel="stylesheet" href="stylesheet.css">
-		<title style="color: green">Zerg620's GTPE</title>
+		<title>Zerg620's GTPE</title>
 	</head>
 	<body>
 		<h1 style="text-align: center">Welcome to Zerg620's Guide to <span style="color: green">Planet Earth!</span></h1>
-		<h4>Don't let movies, teachers, and advertisements be your only source of knowledge.</h4>
+		<h4>My place to share my questions, thoughts, and guides</h4>
+		<h>Click here later on to learn how to make your own guide to the universe</h>
 		<table border="1px">
 			<th colspan="4">!~Contents~!</th><!--Table Header-->
 			<tr>
