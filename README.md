@@ -3,4 +3,4 @@
 <p>Then my guide to the universe will be one of many. Sounds like fun.</p>
 
 <p>Remember to play nicely with the other players and have fun!</p>
-<a href="homepage.html">*button*</a>
+<a href="everyonesguidetotheuniverse.github.io/Homepage.html">*button*</a>
